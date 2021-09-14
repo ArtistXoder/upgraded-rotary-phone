@@ -1,5 +1,8 @@
-
 # upgraded-rotary-phone
+
+# App installed
+
+Arduino Ide & Kdenlive
 
 # Change Theme 
 
