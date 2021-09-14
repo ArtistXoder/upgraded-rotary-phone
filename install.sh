@@ -6,5 +6,5 @@ case "$choice" in
   n|N ) echo "no";;
   * ) echo "invalid";;
 esac
-sudo apt-get install kdenlive 
-sudo apt-get install firefox-esr
+apt-get install kdenlive 
+apt-get install firefox-esr
