@@ -1,10 +1,12 @@
 #!/bin/bash
 echo would you like to install Firefox and Kdenlive? 
-read -p "Continue (y/n)?" choice
-case "$choice" in 
-  y|Y ) echo "yes";;
-  n|N ) echo "no";;
-  * ) echo "invalid";;
-esac
-apt install kdenlive 
+read -r -p "Are you sure want to install firefox & Kdenlive [y/N] " input
+case "$input" in
+	[yY][eE][sS]|[yY] | "")
+		;;
+	*)
+		# "No" should be the default case
+		exit
+		;;
+esacapt install kdenlive 
 apt install firefox-esr
