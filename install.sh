@@ -10,3 +10,4 @@ case "$input" in
 esac
 sudo install kdenlive 
 apt install firefox-esr
+sudo apt-get install vnstat
