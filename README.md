@@ -1,27 +1,27 @@
 # Installing
 
-sudo apt-get install git 
+```sudo apt-get install git```
 
-git clone https://github.com/ArtistXoder/upgraded-rotary-phone.git
+```git clone https://github.com/ArtistXoder/upgraded-rotary-phone.git``
 
-chmod +x install.sh
+```chmod +x install.sh```
 
 # Running 
 
-cd upgraded-rotary-phone
+```cd upgraded-rotary-phone```
 
-bash install.sh
+``bash install.sh```
  
 # App installed
 
-Arduino Ide & Kdenlive
+```Arduino Ide & Kdenlive```
 
 # Change Theme 
 
-lxappearance
+```lxappearance```
 
 # Clock Format 12 Hours 
 
-%I:%M %p
+```%I:%M %p```
 
 
