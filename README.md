@@ -1,5 +1,3 @@
-# upgraded-rotary-phone
-
 # Installing
 
 sudo apt-get install git 
