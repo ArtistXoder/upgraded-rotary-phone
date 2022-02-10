@@ -1,5 +1,5 @@
 #!/bin/bash 
-read -r -p "would you like to install Firefox and Kdenlive? y/N] " input
+read -r -p "would you like to install Firefox and Kdenlive and vnstat? y/N] " input
 case "$input" in
 	[yY][eE][sS]|[yY] | "")
 		;;
