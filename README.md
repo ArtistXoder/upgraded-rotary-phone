@@ -2,7 +2,7 @@
 
 ```sudo apt-get install git```
 
-```git clone https://github.com/ArtistXoder/upgraded-rotary-phone.git``
+```git clone https://github.com/ArtistXoder/upgraded-rotary-phone.git```
 
 ```chmod +x install.sh```
 
